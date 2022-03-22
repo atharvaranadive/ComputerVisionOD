@@ -1,3 +1,6 @@
+### Original Code pulled from [EdjeElectronics](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
+
+
 ### Intro
 
 
